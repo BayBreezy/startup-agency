@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<Header />
-		<main class="mb-20">
+		<main class="mb-16">
 			<Hero />
 			<section class="mt-10 lg:px-desktop">
 				<div class="flex divide-x-2">
